@@ -22,7 +22,7 @@ Experience
 Education
 •	TARAS SHEVCHENKO NATIONAL UNIVERSITY – Kiev, Ukraine
   -	BS in Computer Science (2014 – 2018)
-  -	MS in Computer Science (2018 – Present, ready for full-time)
+  -	MS in Computer Science (2018 – 2020)
 Skills
 •	Good knowledge: ML basics, DL 
 •	Strong understanding: Python, SQL
